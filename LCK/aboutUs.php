@@ -48,14 +48,14 @@
                 </thead>
                 <tbody class="table-light rounded">
                     <tr class= "align-middle">
-                        <td><img src="pic/about_us/almas.jpg" alt="Almas Farid" class="rounded" width="150px" ></td>
-                        <td>Almas Farid bin Mohamad Farid</td>
+                        <td><img src="pic/about_us/almas.jpg" alt="XoX" class="rounded" width="150px" ></td>
+                        <td>X0X</td>
                         <td>Owner and Project Manager</td>
                         <td>The project manager is in charge of creating the blueprint for the project, outlining objectives, allocating resources, setting out communication strategies, and showing tests and preservation. They are in charge of ensuring constant testing, evaluation, and fixing at all stages of accomplishment, as well as tracking goals, outputs, and change requests. Have strong leadership qualities and the capacity to manage a team successfully.</td>
-                        <td>0164105211</td>
-                        <td>almasfrd7gmail.com</td>
+                        <td>#</td>
+                        <td>#</td>
                         <td>
-                            <a href="https://www.instagram.com/anassh127/"><i class="fa fa-instagram"></i></a>
+                            <a href="#"><i class="fa fa-instagram"></i></a>
                             <a href="#"><i class="fa fa-facebook"></i></a>
                             <a href="#"><i class="fa fa-twitter"></i></a>
                         </td>
